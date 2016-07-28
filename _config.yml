@@ -1,14 +1,8 @@
 layout_spectrum: 0.5354457
 color:
   saturation: 0.7970922
-  lightness: 0.3677335
   brandStrength: 0.3843911
+  lightness: 0
   rhythmicContrast: 0.1452326
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-typography_spectrum: 0.4088043
+typography_spectrum: 0.3517723
 name: AF Construction
